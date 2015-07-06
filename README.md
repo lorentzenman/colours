@@ -1,0 +1,2 @@
+# colours
+Python Colours Module
